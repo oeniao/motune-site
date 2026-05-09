@@ -1,0 +1,6 @@
+title: Motune
+description: Wrist gestures for music control on Apple Watch.
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+
