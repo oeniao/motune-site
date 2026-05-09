@@ -87,7 +87,7 @@ Motune 没有远程账号数据库。本地设置和可选的本地手势样本�
 
 ### 联系方式
 
-如需支持或有隐私问题，请使用托管本文档的 GitHub 仓库或 App Store 产品页面提供的支持渠道。
+如需支持或有隐私问题，请联系：[motune.app@gmail.com](mailto:motune.app@gmail.com)。
 
 ## 支持
 

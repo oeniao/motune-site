@@ -43,5 +43,4 @@ If you need help with Motune, please check the notes below before contacting sup
 
 ## Contact
 
-Support contact: replace this line with your preferred support email before App Store submission.
-
+Email: [motune.app@gmail.com](mailto:motune.app@gmail.com)

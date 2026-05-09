@@ -87,7 +87,7 @@ Motune에는 원격 계정 데이터베이스가 없습니다. 로컬 설정과 
 
 ### 문의
 
-지원 또는 개인정보 관련 질문은 이 문서를 호스팅하는 GitHub 저장소 또는 App Store 제품 페이지에 제공된 지원 채널을 이용해 주세요.
+지원 또는 개인정보 관련 질문은 [motune.app@gmail.com](mailto:motune.app@gmail.com)으로 문의해 주세요.
 
 ## 지원
 

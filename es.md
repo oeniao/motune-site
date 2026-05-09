@@ -87,7 +87,7 @@ Motune no tiene una base de datos remota de cuentas. Los ajustes locales y las m
 
 ### Contacto
 
-Para soporte o preguntas de privacidad, usa el canal de soporte indicado en el repositorio de GitHub o en la página del App Store que aloja este documento.
+Para soporte o preguntas de privacidad, contacta: [motune.app@gmail.com](mailto:motune.app@gmail.com).
 
 ## Soporte
 

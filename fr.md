@@ -87,7 +87,7 @@ Motune ne possède pas de base de données de comptes distante. Les réglages lo
 
 ### Contact
 
-Pour obtenir de l’aide ou poser une question sur la confidentialité, utilisez le canal de support indiqué dans le dépôt GitHub ou sur la page App Store qui héberge ce document.
+Pour obtenir de l’aide ou poser une question sur la confidentialité, contactez: [motune.app@gmail.com](mailto:motune.app@gmail.com).
 
 ## Support
 

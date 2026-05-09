@@ -87,7 +87,7 @@ Motune has no remote account database. Local settings and optional local gesture
 
 ### Contact
 
-For support or privacy questions, use the support channel provided on the GitHub repository or App Store product page that hosts this document.
+For support or privacy questions, contact: [motune.app@gmail.com](mailto:motune.app@gmail.com).
 
 ## Support
 

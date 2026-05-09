@@ -87,7 +87,7 @@ Motune hat keine entfernte Kontodatenbank. Lokale Einstellungen und optionale lo
 
 ### Kontakt
 
-Für Support- oder Datenschutzfragen nutze den Supportkanal im GitHub-Repository oder auf der App-Store-Produktseite, auf der dieses Dokument gehostet wird.
+Für Support- oder Datenschutzfragen kontaktiere: [motune.app@gmail.com](mailto:motune.app@gmail.com).
 
 ## Support
 

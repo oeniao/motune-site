@@ -44,5 +44,4 @@ Motune does not maintain a remote account database. Local settings and optional 
 
 ## Contact
 
-For privacy questions, contact the developer through the support information listed on the [Support](support.md) page.
-
+For privacy questions, contact: [motune.app@gmail.com](mailto:motune.app@gmail.com).
