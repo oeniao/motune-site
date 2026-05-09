@@ -1,11 +1,11 @@
 <div align="center">
   <img src="assets/images/brand-logo.png" alt="Motune logo" width="128">
 
-  # Motune
+  <h1>Motune</h1>
 
-  **Wrist gestures for music control while you move.**
+  <p><strong>Wrist gestures for music control while you move.</strong></p>
 
-  Motune lets you control music playback on iPhone from Apple Watch with simple wrist gestures. It is designed for running, walking, gym workouts, and moments when your iPhone is in your pocket, on an armband, or out of easy reach.
+  <p>Motune lets you control music playback on iPhone from Apple Watch with simple wrist gestures. It is designed for running, walking, gym workouts, and moments when your iPhone is in your pocket, on an armband, or out of easy reach.</p>
 </div>
 
 ## Product
@@ -72,4 +72,3 @@ For best recognition, make each gesture clearly, use enough movement range, and 
 
 - [Privacy Policy](privacy.md)
 - [Support](support.md)
-
