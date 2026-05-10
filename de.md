@@ -69,9 +69,13 @@ Bewegungssensordaten der Apple Watch werden lokal auf dem Gerät zur Gestenerken
 
 Wenn du das Gesten-Sample-Tool ausdrücklich verwendest, können Bewegungssamples lokal auf deinem Gerät für Debugging oder Modellverbesserung gespeichert werden. Diese Samples werden nicht automatisch hochgeladen.
 
-### Gesundheitsdaten
+### Gesundheitsberechtigung und Gesundheitsdaten
 
-Motune kann eine Gesundheitsberechtigung anfordern, um eine Workout-Sitzung auszuführen, damit die Gestenerkennung aktiv bleibt, während die Watch-App verwendet wird. Motune liest keinen Gesundheitsverlauf, speichert keine persönlichen Gesundheitsakten und teilt keine HealthKit-Daten mit Dritten.
+Motune kann eine Gesundheitsberechtigung nur anfordern, um eine lokale Workout-Sitzung auf der Apple Watch zu starten. Dadurch kann die Gestenerkennung während Workouts, während eine andere Watch-App im Vordergrund ist, und beim Empfang von Gestensteuerungsereignissen auf dem iPhone im Hintergrund oder Sperrbildschirm weiterlaufen.
+
+Motune liest keine Herzfrequenz, Schritte, Kalorien, Workout-Historie, Aktivitätsringe oder andere Gesundheitsdaten. Motune speichert, lädt hoch, verkauft oder teilt keine HealthKit-Daten mit Dritten.
+
+Die Workout-Sitzung wird nur als Systemlaufzeitmechanismus für kontinuierliche Gestenerkennung und Echtzeitsteuerung zwischen Watch und iPhone verwendet. Motune ist keine medizinische App, kein Fitness-Coaching und keine Gesundheitsanalyse-App.
 
 ### Musikwiedergabedaten
 

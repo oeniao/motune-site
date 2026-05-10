@@ -20,7 +20,7 @@ Motune focuses on music playback control. It is not a social app, medical app, o
 - Apple Watch running watchOS 11 or later.
 - A paired Apple Watch connected to the iPhone.
 - Motion and Fitness permission on Apple Watch.
-- Health permission if the app uses a workout runtime to keep gesture recognition active.
+- Health permission for the local workout session that keeps gesture recognition active during movement.
 
 ## How to Use
 
@@ -69,9 +69,13 @@ Apple Watch motion sensor data is processed locally on the device for gesture re
 
 If you explicitly use the gesture sample tool, motion samples may be saved locally on your device for debugging or model improvement. These samples are not uploaded automatically.
 
-### Health Data
+### Health Permission and Health Data
 
-Motune may request Health permission to run a workout session so gesture recognition can continue while the watch app is active. Motune does not read your health history, does not store personal health records, and does not share HealthKit data with third parties.
+Motune may request Health permission only to start a local workout session on Apple Watch. This allows gesture recognition to continue during workouts, while another Watch app is in the foreground, and while iPhone receives gesture control events in the background or on the lock screen.
+
+Motune does not read heart rate, steps, calories, workout history, activity rings, or other health records. Motune does not store, upload, sell, or share HealthKit data with third parties.
+
+The workout session is used as a system runtime mechanism for continuous gesture recognition and real-time Watch-to-iPhone control. Motune is not a medical, fitness coaching, or health analysis app.
 
 ### Music Playback Data
 

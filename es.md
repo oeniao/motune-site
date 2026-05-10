@@ -69,9 +69,13 @@ Los datos de los sensores de movimiento del Apple Watch se procesan localmente e
 
 Si usas explícitamente la herramienta de muestras de gestos, pueden guardarse muestras de movimiento localmente en tu dispositivo para depuración o mejora del modelo. Estas muestras no se suben automáticamente.
 
-### Datos de Salud
+### Permiso de Salud y datos de Salud
 
-Motune puede solicitar permiso de Salud para ejecutar una sesión de entrenamiento y mantener activa la detección de gestos mientras se usa la app del Watch. Motune no lee tu historial de Salud, no almacena registros personales de salud y no comparte datos de HealthKit con terceros.
+Motune puede solicitar permiso de Salud únicamente para iniciar una sesión de entrenamiento local en Apple Watch. Esto permite que el reconocimiento de gestos continúe durante entrenamientos, mientras otra app del Watch está en primer plano y cuando el iPhone recibe eventos de control por gestos en segundo plano o en la pantalla bloqueada.
+
+Motune no lee frecuencia cardiaca, pasos, calorías, historial de entrenamientos, anillos de actividad ni otros registros de salud. Motune no almacena, sube, vende ni comparte datos de HealthKit con terceros.
+
+La sesión de entrenamiento se usa solo como mecanismo del sistema para reconocimiento continuo de gestos y control en tiempo real entre Watch e iPhone. Motune no es una app médica, de entrenamiento físico ni de análisis de salud.
 
 ### Datos de reproducción musical
 
