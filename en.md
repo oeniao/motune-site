@@ -73,6 +73,8 @@ If you explicitly use the gesture sample tool, motion samples may be saved local
 
 Motune may request Health permission only to start a local workout session on Apple Watch. This allows gesture recognition to continue during workouts, while another Watch app is in the foreground, and while iPhone receives gesture control events in the background or on the lock screen.
 
+Apple may describe this permission as allowing Motune to “update Health data” because starting a workout session uses HealthKit’s workout-session permission. Motune uses this permission only as a local runtime mechanism.
+
 Motune does not read heart rate, steps, calories, workout history, activity rings, or other health records. Motune does not store, upload, sell, or share HealthKit data with third parties.
 
 The workout session is used as a system runtime mechanism for continuous gesture recognition and real-time Watch-to-iPhone control. Motune is not a medical, fitness coaching, or health analysis app.

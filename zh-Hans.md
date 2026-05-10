@@ -73,6 +73,8 @@ Apple Watch 的运动传感器数据只在设备本地用于手势识别。Motun
 
 Motune 可能会请求健康权限，但用途仅限于在 Apple Watch 上启动本地运动会话。这样可以让手势识别在运动中、其他 Watch App 位于前台时继续运行，也可以让 iPhone 在后台或锁屏时接收手势控制事件。
 
+Apple 可能会把这个权限显示为允许 Motune“更新健康数据”，这是因为启动运动会话使用的是 HealthKit 的 workout-session 权限。Motune 只把它作为本地运行机制使用。
+
 Motune 不读取心率、步数、卡路里、运动历史、活动圆环或其他健康记录。Motune 不保存、不上传、不出售、也不会向第三方共享 HealthKit 数据。
 
 这个运动会话只是系统运行机制，用于持续手势识别和 Apple Watch 到 iPhone 的实时控制连接。Motune 不是医疗 App、健身指导 App，也不进行健康分析。
