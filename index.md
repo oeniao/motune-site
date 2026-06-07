@@ -10,7 +10,7 @@ description: Control iPhone music from Apple Watch with wrist gestures.
     <h1>Control music from your wrist.</h1>
     <p class="lede">Motune lets you control current iPhone playback from Apple Watch with clear wrist gestures. It is built for running, walking, workouts, winter gloves, earbuds that are hard to tap, and any moment when your phone is in a pocket, armband, bag, or out of reach.</p>
     <div class="hero-actions">
-      <a href="#screenshots" class="button">See V1.5 screenshots</a>
+      <a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="button">Download on App Store</a>
       <a href="privacy.md" class="button secondary">Privacy Policy</a>
       <a href="support.md" class="button secondary">Support</a>
     </div>
@@ -18,6 +18,16 @@ description: Control iPhone music from Apple Watch with wrist gestures.
   <div class="hero-media">
     <img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Motune workout mode App Store screenshot">
   </div>
+</section>
+
+<section class="download-card">
+  <div>
+    <p class="eyebrow">Download Motune</p>
+    <h2>Scan to open Motune on the App Store.</h2>
+    <p>Use the QR code from another device, or open the App Store link directly on iPhone.</p>
+    <a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="button">Open App Store</a>
+  </div>
+  <img src="assets/images/app-store-qr.png" alt="QR code to download Motune on the App Store">
 </section>
 
 ## App Store Review Links

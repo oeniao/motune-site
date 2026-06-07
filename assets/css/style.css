@@ -171,6 +171,37 @@ img {
   color: #d0d0d5;
 }
 
+.download-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 220px;
+  gap: 28px;
+  align-items: center;
+  margin: 18px 0 54px;
+  padding: 24px;
+  border: 1px solid rgba(126, 200, 31, 0.32);
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(126, 200, 31, 0.13), rgba(255, 255, 255, 0.035));
+}
+
+.download-card h2 {
+  margin: 8px 0 10px;
+  padding: 0;
+}
+
+.download-card p:not(.eyebrow) {
+  max-width: 620px;
+  margin: 0 0 20px;
+  color: #d7d7dc;
+}
+
+.download-card img {
+  width: 220px;
+  border: 10px solid #ffffff;
+  border-radius: 8px;
+  background: #ffffff;
+}
+
 .review-links {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -363,6 +394,14 @@ blockquote {
 
   .hero-media img {
     width: min(86vw, 380px);
+  }
+
+  .download-card {
+    grid-template-columns: 1fr;
+  }
+
+  .download-card img {
+    width: min(68vw, 220px);
   }
 
   .pain-grid,
