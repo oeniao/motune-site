@@ -1,6 +1,6 @@
 ---
 lang: ar
-dir: rtl
+text_direction: rtl
 title: Motune
 description: التحكم بموسيقى iPhone من Apple Watch بإيماءات المعصم.
 ---
