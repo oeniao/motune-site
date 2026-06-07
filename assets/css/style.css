@@ -173,7 +173,7 @@ img {
 
 .download-card {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 220px;
+  grid-template-columns: minmax(0, 1fr) 230px;
   gap: 28px;
   align-items: center;
   margin: 18px 0 54px;
@@ -195,11 +195,60 @@ img {
   color: #d7d7dc;
 }
 
-.download-card img {
+.app-store-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 58px;
+  padding: 8px 16px 8px 14px;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 8px;
+  background: #000000;
+  color: #ffffff;
+}
+
+.app-store-badge:hover {
+  text-decoration: none;
+  border-color: rgba(255, 255, 255, 0.58);
+}
+
+.app-store-mark {
+  color: #ffffff;
+  font-size: 2rem;
+  line-height: 1;
+}
+
+.app-store-badge small,
+.app-store-badge strong {
+  display: block;
+  color: #ffffff;
+  line-height: 1.05;
+}
+
+.app-store-badge small {
+  font-size: 0.72rem;
+}
+
+.app-store-badge strong {
+  font-size: 1.46rem;
+}
+
+.qr-panel {
+  display: grid;
+  justify-items: center;
+  gap: 10px;
+}
+
+.qr-panel img {
   width: 220px;
   border: 10px solid #ffffff;
   border-radius: 8px;
   background: #ffffff;
+}
+
+.qr-panel span {
+  color: var(--muted);
+  font-size: 0.9rem;
 }
 
 .review-links {

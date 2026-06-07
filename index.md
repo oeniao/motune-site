@@ -11,8 +11,8 @@ description: Control iPhone music from Apple Watch with wrist gestures.
     <p class="lede">Motune lets you control current iPhone playback from Apple Watch with clear wrist gestures. It is built for running, walking, workouts, winter gloves, earbuds that are hard to tap, and any moment when your phone is in a pocket, armband, bag, or out of reach.</p>
     <div class="hero-actions">
       <a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="button">Download on App Store</a>
-      <a href="privacy.md" class="button secondary">Privacy Policy</a>
-      <a href="support.md" class="button secondary">Support</a>
+      <a href="privacy.html" class="button secondary">Privacy Policy</a>
+      <a href="support.html" class="button secondary">Support</a>
     </div>
   </div>
   <div class="hero-media">
@@ -25,31 +25,19 @@ description: Control iPhone music from Apple Watch with wrist gestures.
     <p class="eyebrow">Download Motune</p>
     <h2>Scan to open Motune on the App Store.</h2>
     <p>Use the QR code from another device, or open the App Store link directly on iPhone.</p>
-    <a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="button">Open App Store</a>
+    <a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="app-store-badge" aria-label="Download Motune on the App Store">
+      <span class="app-store-mark"></span>
+      <span>
+        <small>Download on the</small>
+        <strong>App Store</strong>
+      </span>
+    </a>
   </div>
-  <img src="assets/images/app-store-qr.png" alt="QR code to download Motune on the App Store">
+  <div class="qr-panel">
+    <img src="assets/images/app-store-qr.png" alt="QR code to download Motune on the App Store">
+    <span>Scan with iPhone camera</span>
+  </div>
 </section>
-
-## App Store Review Links
-
-<div class="review-links">
-  <a href="privacy.md">
-    <strong>Privacy Policy</strong>
-    <span>Data collection, motion data, Health permission, music playback data, and contact.</span>
-  </a>
-  <a href="support.md">
-    <strong>Support</strong>
-    <span>Requirements, setup steps, troubleshooting, Watch install help, and support email.</span>
-  </a>
-  <a href="#safety">
-    <strong>Safety & Privacy</strong>
-    <span>No account, no ads, no tracking, local motion processing, and non-medical use.</span>
-  </a>
-  <a href="#requirements">
-    <strong>Requirements</strong>
-    <span>iOS, watchOS, paired Apple Watch, Motion permission, and optional Health permission.</span>
-  </a>
-</div>
 
 ## Built Around Real Music-Control Friction
 
@@ -213,7 +201,7 @@ Motune is designed as a focused local utility:
 - Music playback information is used locally for display and control.
 - Motune is a convenience tool for music playback control. It is not intended for medical diagnosis, health treatment, emergency use, navigation, or safety-critical situations.
 
-For the full App Store policy page, see [Privacy Policy](privacy.md). For troubleshooting and contact, see [Support](support.md).
+For the full App Store policy page, see [Privacy Policy](privacy.html). For troubleshooting and contact, see [Support](support.html).
 
 <h2 id="requirements">Requirements</h2>
 
@@ -226,14 +214,35 @@ For the full App Store policy page, see [Privacy Policy](privacy.md). For troubl
 
 ## Links
 
-- [Privacy Policy](privacy.md)
-- [Support](support.md)
-- [English](en.md)
-- [简体中文](zh-Hans.md)
-- [繁體中文](zh-Hant.md)
-- [日本語](ja.md)
-- [한국어](ko.md)
-- [Español](es.md)
-- [Français](fr.md)
-- [Deutsch](de.md)
-- [العربية](ar.md)
+- [Privacy Policy](privacy.html)
+- [Support](support.html)
+- [English](en.html)
+- [简体中文](zh-Hans.html)
+- [繁體中文](zh-Hant.html)
+- [日本語](ja.html)
+- [한국어](ko.html)
+- [Español](es.html)
+- [Français](fr.html)
+- [Deutsch](de.html)
+- [العربية](ar.html)
+
+## App Store Review Links
+
+<div class="review-links">
+  <a href="privacy.html">
+    <strong>Privacy Policy</strong>
+    <span>Data collection, motion data, Health permission, music playback data, and contact.</span>
+  </a>
+  <a href="support.html">
+    <strong>Support</strong>
+    <span>Requirements, setup steps, troubleshooting, Watch install help, and support email.</span>
+  </a>
+  <a href="safety.html">
+    <strong>Safety & Privacy</strong>
+    <span>No account, no ads, no tracking, local motion processing, and non-medical use.</span>
+  </a>
+  <a href="requirements.html">
+    <strong>Requirements</strong>
+    <span>iOS, watchOS, paired Apple Watch, Motion permission, and optional Health permission.</span>
+  </a>
+</div>
