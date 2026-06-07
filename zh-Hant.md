@@ -81,6 +81,6 @@ Motune 的設計原則是盡量減少資料收集。
 
 ## 連結
 
-- [隱私權政策](privacy.md)
-- [支援](support.md)
-- [首頁](index.md)
+- [隱私權政策](privacy)
+- [支援](support)
+- [首頁](./)

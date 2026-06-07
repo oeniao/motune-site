@@ -233,10 +233,30 @@ img {
   font-size: 1.46rem;
 }
 
+.app-store-badge.compact {
+  width: 220px;
+  min-height: 48px;
+  justify-content: center;
+  gap: 9px;
+  padding: 7px 12px;
+}
+
+.app-store-badge.compact .app-store-mark {
+  font-size: 1.55rem;
+}
+
+.app-store-badge.compact small {
+  font-size: 0.63rem;
+}
+
+.app-store-badge.compact strong {
+  font-size: 1.1rem;
+}
+
 .qr-panel {
   display: grid;
   justify-items: center;
-  gap: 10px;
+  gap: 12px;
 }
 
 .qr-panel img {
@@ -287,6 +307,82 @@ img {
 .review-links span {
   color: var(--muted);
   font-size: 0.94rem;
+}
+
+.legal-hero {
+  max-width: 880px;
+  margin: 0 0 28px;
+  padding: 34px 0 8px;
+}
+
+.legal-hero h1 {
+  margin: 8px 0 12px;
+  padding: 0;
+  font-size: clamp(2.4rem, 6vw, 4.8rem);
+}
+
+.legal-hero .lede {
+  max-width: 780px;
+}
+
+.legal-updated {
+  margin-top: 14px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.legal-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.legal-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.055), rgba(255, 255, 255, 0.024));
+  padding: 22px;
+}
+
+.legal-card.accent {
+  border-color: rgba(126, 200, 31, 0.38);
+  background: linear-gradient(135deg, rgba(126, 200, 31, 0.13), rgba(255, 255, 255, 0.035));
+}
+
+.legal-card h2,
+.legal-contact h2,
+.legal-table h2 {
+  margin: 0 0 12px;
+  padding: 0;
+  font-size: 1.28rem;
+}
+
+.legal-card p,
+.legal-card li {
+  color: #d7d7dc;
+}
+
+.legal-card p:last-child,
+.legal-card ul:last-child,
+.legal-card ol:last-child {
+  margin-bottom: 0;
+}
+
+.legal-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 28px;
+}
+
+.legal-contact,
+.legal-table {
+  margin-top: 34px;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.035);
 }
 
 .pain-grid,
@@ -456,6 +552,7 @@ blockquote {
   .pain-grid,
   .story-grid,
   .feature-grid,
+  .legal-grid,
   .review-links,
   .screenshot-grid,
   .gesture-grid {
