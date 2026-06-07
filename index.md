@@ -11,13 +11,35 @@ description: Control iPhone music from Apple Watch with wrist gestures.
     <p class="lede">Motune lets you control current iPhone playback from Apple Watch with clear wrist gestures. It is built for running, walking, workouts, winter gloves, earbuds that are hard to tap, and any moment when your phone is in a pocket, armband, bag, or out of reach.</p>
     <div class="hero-actions">
       <a href="#screenshots" class="button">See V1.5 screenshots</a>
-      <a href="#gestures" class="button secondary">View gestures</a>
+      <a href="privacy.md" class="button secondary">Privacy Policy</a>
+      <a href="support.md" class="button secondary">Support</a>
     </div>
   </div>
   <div class="hero-media">
     <img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Motune workout mode App Store screenshot">
   </div>
 </section>
+
+## App Store Review Links
+
+<div class="review-links">
+  <a href="privacy.md">
+    <strong>Privacy Policy</strong>
+    <span>Data collection, motion data, Health permission, music playback data, and contact.</span>
+  </a>
+  <a href="support.md">
+    <strong>Support</strong>
+    <span>Requirements, setup steps, troubleshooting, Watch install help, and support email.</span>
+  </a>
+  <a href="#safety">
+    <strong>Safety & Privacy</strong>
+    <span>No account, no ads, no tracking, local motion processing, and non-medical use.</span>
+  </a>
+  <a href="#requirements">
+    <strong>Requirements</strong>
+    <span>iOS, watchOS, paired Apple Watch, Motion permission, and optional Health permission.</span>
+  </a>
+</div>
 
 ## Built Around Real Music-Control Friction
 
@@ -168,7 +190,7 @@ Workout Mode is started by the user. It uses a workout runtime so gesture contro
 
 For best recognition, make each gesture clearly, use enough movement range, return your wrist to a relaxed position, then pause 1 second before the next gesture.
 
-## Privacy
+<h2 id="safety">Safety & Privacy</h2>
 
 Motune is designed as a focused local utility:
 
@@ -179,8 +201,11 @@ Motune is designed as a focused local utility:
 - Motion sensor data is processed locally for gesture recognition.
 - Optional gesture samples are saved locally only when the user intentionally uses the local sample tool.
 - Music playback information is used locally for display and control.
+- Motune is a convenience tool for music playback control. It is not intended for medical diagnosis, health treatment, emergency use, navigation, or safety-critical situations.
 
-## Requirements
+For the full App Store policy page, see [Privacy Policy](privacy.md). For troubleshooting and contact, see [Support](support.md).
+
+<h2 id="requirements">Requirements</h2>
 
 - iPhone running iOS 18 or later.
 - Apple Watch running watchOS 11 or later.

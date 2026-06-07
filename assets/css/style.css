@@ -171,6 +171,44 @@ img {
   color: #d0d0d5;
 }
 
+.review-links {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.review-links a {
+  display: block;
+  min-height: 132px;
+  padding: 16px;
+  border: 1px solid rgba(126, 200, 31, 0.34);
+  border-radius: 8px;
+  background: rgba(126, 200, 31, 0.075);
+  color: var(--text);
+}
+
+.review-links a:hover {
+  text-decoration: none;
+  border-color: rgba(126, 200, 31, 0.72);
+  background: rgba(126, 200, 31, 0.11);
+}
+
+.review-links strong,
+.review-links span {
+  display: block;
+}
+
+.review-links strong {
+  margin-bottom: 8px;
+  font-size: 1.03rem;
+}
+
+.review-links span {
+  color: var(--muted);
+  font-size: 0.94rem;
+}
+
 .pain-grid,
 .story-grid,
 .feature-grid {
@@ -330,6 +368,7 @@ blockquote {
   .pain-grid,
   .story-grid,
   .feature-grid,
+  .review-links,
   .screenshot-grid,
   .gesture-grid {
     grid-template-columns: 1fr;
