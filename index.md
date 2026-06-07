@@ -25,13 +25,6 @@ description: Control iPhone music from Apple Watch with wrist gestures.
     <p class="eyebrow">Download Motune</p>
     <h2>Scan to open Motune on the App Store.</h2>
     <p>Use the QR code from another device, or open the App Store link directly on iPhone.</p>
-    <a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="app-store-badge" aria-label="Download Motune on the App Store">
-      <span class="app-store-mark"></span>
-      <span>
-        <small>Download on the</small>
-        <strong>App Store</strong>
-      </span>
-    </a>
   </div>
   <div class="qr-panel">
     <img src="assets/images/app-store-qr.png" alt="QR code to download Motune on the App Store">
