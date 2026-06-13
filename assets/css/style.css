@@ -387,6 +387,7 @@ img {
 
 .pain-grid,
 .story-grid,
+.faq-grid,
 .feature-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -396,6 +397,10 @@ img {
 
 .story-grid {
   grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.faq-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .panel {
@@ -551,6 +556,7 @@ blockquote {
 
   .pain-grid,
   .story-grid,
+  .faq-grid,
   .feature-grid,
   .legal-grid,
   .review-links,

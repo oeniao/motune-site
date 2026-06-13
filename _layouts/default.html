@@ -3,13 +3,77 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title | default: site.title }}</title>
-    <meta name="description" content="{{ page.description | default: site.description }}">
+    {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}">
+    {% endif %}
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#7EC81F">
     <link rel="icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" sizes="any">
     <link rel="icon" type="image/png" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
     <link rel="apple-touch-icon" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
+    <link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
+    <link rel="alternate" hreflang="en" href="{{ '/en' | absolute_url }}">
+    <link rel="alternate" hreflang="zh-Hans" href="{{ '/zh-Hans' | absolute_url }}">
+    <link rel="alternate" hreflang="zh-Hant" href="{{ '/zh-Hant' | absolute_url }}">
+    <link rel="alternate" hreflang="ja" href="{{ '/ja' | absolute_url }}">
+    <link rel="alternate" hreflang="ko" href="{{ '/ko' | absolute_url }}">
+    <link rel="alternate" hreflang="es" href="{{ '/es' | absolute_url }}">
+    <link rel="alternate" hreflang="fr" href="{{ '/fr' | absolute_url }}">
+    <link rel="alternate" hreflang="de" href="{{ '/de' | absolute_url }}">
+    <link rel="alternate" hreflang="ar" href="{{ '/ar' | absolute_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     {% seo %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "Motune",
+      "applicationCategory": "MusicApplication",
+      "operatingSystem": "iOS, watchOS",
+      "description": {{ page.description | default: site.description | jsonify }},
+      "url": {{ '/' | absolute_url | jsonify }},
+      "image": {{ '/assets/images/icon-192.png' | absolute_url | jsonify }},
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "url": "https://apps.apple.com/us/app/motune/id6768014814?uo=4"
+      }
+    }
+    </script>
+    {% if page.faq_schema %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Why do I need Motune if my earbuds already have controls?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Earbud controls are useful, but they are not always reliable while running, cycling, sweating, wearing gloves, or adjusting the fit. Motune lets you control music from your wrist instead of touching the earbuds."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why not just use Siri?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Siri can work, but music control is a tiny, frequent action. Saying commands out loud can feel slow, awkward in public, or unreliable in noisy places. Motune is silent and does not require voice commands."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why not use Apple Watch Now Playing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apple Watch Now Playing works when you can look at the screen and tap. Motune is designed for eyes-free wrist gestures during running, cycling, commuting, wearing gloves, or carrying something."
+          }
+        }
+      ]
+    }
+    </script>
+    {% endif %}
   </head>
   <body>
     <main class="page">

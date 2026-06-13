@@ -1,108 +1,120 @@
-# Motune
+---
+lang: ja
+title: Motune - Apple Watch ジェスチャー音楽リモコン
+description: イヤホンに触れず、Siri に話しかけず、Apple Watch の手首ジェスチャーで音楽を操作。Motune はランニング、サイクリング、通勤、手袋、Spotify、Apple Music、Shokz、オープンイヤーイヤホンに向けた音楽リモコンです。
+keywords: Apple Watch 音楽 ジェスチャー操作, 手首ジェスチャー 音楽リモコン, Spotify Apple Watch ジェスチャー, ハンズフリー音楽操作, ランニング 音楽操作, サイクリング 音楽操作, Shokz 音楽操作, イヤホン誤操作, Siri 音楽操作 代替
+permalink: /ja
+---
 
-**Apple Watch の手首ジェスチャーで音楽再生を操作。**
+<section class="hero">
+  <div class="hero-copy">
+    <img src="assets/images/brand-logo.png" alt="Motune logo" class="brand-logo">
+    <p class="eyebrow">Apple Watch gesture music remote</p>
+    <h1>イヤホンに触れず、Siri に話しかけず、手首で音楽を操作。</h1>
+    <p class="lede">Motune は Apple Watch を音楽用の手首ジェスチャーリモコンにします。ランニング、サイクリング、通勤、冬の手袋、オープンイヤーイヤホン、イヤホンの誤タップ、画面タップや音声操作が不便な場面向けです。</p>
+    <div class="hero-actions"><a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="button">App Store でダウンロード</a><a href="support" class="button secondary">サポート</a></div>
+  </div>
+  <div class="hero-media"><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Motune workout mode screenshot"></div>
+</section>
 
-Motune は、ランニング、ウォーキング、ジムでの運動中など、iPhone をすぐに触れない場面で、Apple Watch の手首ジェスチャーから iPhone の音楽再生を操作するためのアプリです。
+<section class="download-card">
+  <div><p class="eyebrow">Motune をダウンロード</p><h2>QR コードで App Store を開く。</h2><p>別の端末で QR コードを読み取るか、iPhone で App Store リンクを開いてください。</p></div>
+  <div class="qr-panel"><img src="assets/images/app-store-qr.png" alt="Motune App Store QR code"><a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="app-store-badge compact" aria-label="Download Motune on the App Store"><span class="app-store-mark"></span><span><small>Download on the</small><strong>App Store</strong></span></a><span>iPhone のカメラで読み取り</span></div>
+</section>
 
-## 製品概要
+## 実際の音楽操作の摩擦から設計
 
-- iPhone で現在再生中の音楽を操作します。
-- Apple Watch で手首ジェスチャーを認識します。
-- 認識したジェスチャーを iPhone に送信して音楽操作を実行します。
-- ジェスチャーごとの操作をカスタマイズできます。
-- アカウント、広告、トラッキング、クラウドサービスは不要です。
+<div class="pain-grid">
+  <div class="panel"><h3>小さなイヤホンタップを避ける</h3><p>走っている時、汗をかいた時、装着位置を直す時、帽子や動きがある時、イヤホンのタップやスクイーズは誤作動しやすくなります。</p></div>
+  <div class="panel"><h3>声に出す Siri 操作を避ける</h3><p>Siri は便利ですが、人前、風、交通音、ジムの騒音の中で音楽コマンドを言うのは遅く、気まずく、不安定なことがあります。</p></div>
+  <div class="panel"><h3>小さな画面タップを避ける</h3><p>Apple Watch の Now Playing は便利ですが、走行中や手袋をしている時に画面を見て小さなボタンを押すのは面倒です。</p></div>
+  <div class="panel"><h3>動きながら使うために</h3><p>再生、一時停止、次の曲、前の曲を手首ジェスチャーで操作。ランニング、サイクリング、徒歩、通勤、料理、荷物を持っている時に向いています。</p></div>
+</div>
 
-Motune は音楽再生操作に特化しています。ソーシャルアプリ、医療アプリ、フィットネス指導アプリではありません。
+## ユーザーストーリー
+
+<div class="story-grid">
+  <div class="panel story"><p class="story-role">ランナー</p><h3>「走っている時にイヤホン操作を外してしまう。」</h3><p>Motune はイヤホンに触れず、明確な手首ジェスチャーで曲送り、戻し、再生、一時停止を行えます。</p></div>
+  <div class="panel story"><p class="story-role">冬のウォーカー</p><h3>「手袋だと小さな操作が面倒。」</h3><p>手袋を外したりスマホを探したりせず、Apple Watch のジェスチャーで音楽を操作できます。</p></div>
+  <div class="panel story"><p class="story-role">サイクリスト / オープンイヤー利用者</p><h3>「風の中で Siri は使いたくない。」</h3><p>Motune は Shokz、オープンイヤー、骨伝導イヤホンのための手首操作レイヤーとして使えます。</p></div>
+</div>
+
+## V1.5 スクリーンショット
+
+<p class="section-intro">V1.5 ではワークアウトモード、自分で選べるジェスチャー操作、高度な認識設定、ロック画面 Live Card、ジェスチャー練習を改善しました。</p>
+
+<div id="screenshots" class="screenshot-grid">
+  <figure><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Workout Mode wrist controls"><figcaption>ワークアウト中の手首操作</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.5/02-customize-gesture-actions.png" alt="Customize gesture actions"><figcaption>ジェスチャー動作を選択</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.5/03-advanced-gesture-models.png" alt="Advanced gesture models"><figcaption>高度な認識モデル</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.5/04-lock-screen-live-card.png" alt="Lock Screen Live Card"><figcaption>ロック画面で状態確認</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.5/05-gesture-practice-guide.png" alt="Gesture practice guide"><figcaption>使う前に練習</figcaption></figure>
+</div>
+
+## Motune ができること
+
+Motune は音楽プレイヤーではありません。すでに使っている音楽アプリのための Apple Watch ジェスチャーリモコンです。音楽を再生し、Motune のジェスチャー操作を有効にすると、イヤホン、Siri、スマホを使わずに基本操作を行えます。
+
+<div class="feature-grid">
+  <div class="panel"><h3>現在の再生を操作</h3><p>Apple Music や Spotify など、iPhone の現在のメディア再生を操作します。</p></div>
+  <div class="panel"><h3>Apple Watch ジェスチャー</h3><p>Apple Watch で意図的な手首動作を認識し、iPhone に操作を送ります。</p></div>
+  <div class="panel"><h3>標準 / ワークアウトモード</h3><p>通常時は Watch App を開き、運動時はユーザーがワークアウトモードを開始できます。</p></div>
+  <div class="panel"><h3>カスタム操作</h3><p>デフォルトのまま使うことも、操作を入れ替えたり不要なジェスチャーを無効にしたりできます。</p></div>
+</div>
+
+## 使い方
+
+1. iPhone と Apple Watch に Motune をインストールします。
+2. 音楽アプリで再生を開始します。
+3. Motune を開き、ジェスチャー操作を有効にします。
+4. 標準モードまたはワークアウトモードを選びます。
+5. 明確な手首ジェスチャーを行い、自然な位置に戻して 1 秒待ちます。
+6. Motune が Apple Watch で認識し、iPhone の再生を操作します。
+
+## FAQ
+
+<div class="faq-grid">
+  <div class="panel"><h3>イヤホン操作があるのに、なぜ Motune が必要ですか？</h3><p>イヤホン操作は便利ですが、走る、汗をかく、手袋をする、装着位置を直す場面では誤操作しやすいことがあります。Motune は手首から操作する別の選択肢です。</p></div>
+  <div class="panel"><h3>Siri ではだめですか？</h3><p>Siri は使えますが、曲送りや一時停止のたびに声を出すのは公共の場では気まずく、騒音下では不安定なことがあります。</p></div>
+  <div class="panel"><h3>Apple Watch Now Playing では？</h3><p>画面を見て押せる時は便利です。走る、乗る、通勤する、手袋をする、荷物を持つ時には、目を使わない手首ジェスチャーが速い場合があります。</p></div>
+  <div class="panel"><h3>Spotify、Apple Music、Shokz で使えますか？</h3><p>Motune はシステムのメディア再生を操作します。現在の再生がシステム操作に対応していれば、Apple Music、Spotify、AirPods、Shokz、オープンイヤー、骨伝導イヤホンで役立ちます。</p></div>
+</div>
+
+## 安全とプライバシー
+
+- アカウント不要。
+- 広告なし。
+- サードパーティ分析 SDK なし。
+- クロスアプリ追跡なし。
+- モーションデータはジェスチャー認識のため端末内で処理されます。
+- Motune は音楽再生操作のための便利ツールであり、医療、緊急、ナビゲーション、安全上重要な用途向けではありません。
 
 ## 必要条件
 
 - iOS 18 以降の iPhone。
 - watchOS 11 以降の Apple Watch。
-- iPhone とペアリング済みで接続されている Apple Watch。
-- Apple Watch のモーションとフィットネス権限。
-- ジェスチャー認識を継続するためにワークアウト実行を使う場合は、ヘルスケア権限。
+- iPhone と Apple Watch の両方に Motune をインストール。
+- Apple Watch が iPhone とペアリングされ接続されていること。
+- Apple Watch のモーション権限。
+- ユーザーがワークアウトモードを開始する場合のみ Health 権限。
 
-## 使い方
+## 言語
 
-1. iPhone と Apple Watch に Motune をインストールします。
-2. 好きな音楽アプリを開き、音楽を再生します。
-3. Motune を開き、ジェスチャー操作をオンにします。
-4. Apple Watch を通常どおり手首に装着します。
-5. 手首ジェスチャーで音楽を操作します。
+- [English](en)
+- [简体中文](zh-Hans)
+- [繁體中文](zh-Hant)
+- [日本語](ja)
+- [한국어](ko)
+- [Español](es)
+- [Français](fr)
+- [Deutsch](de)
+- [العربية](ar)
 
-初期設定のジェスチャー:
+## App Store Review Links
 
-| ジェスチャー | 初期操作 |
-|---|---|
-| 手首を外側に回して戻す | 前の曲 |
-| 手首を内側に回して戻す | 次の曲 |
-| 手のひらを上に向けて戻す | 再生 |
-| 手のひらを下に曲げて戻す | 一時停止 |
-
-各ジェスチャーに割り当てる音楽操作は設定で変更できます。
-
-## 認識について
-
-ジェスチャー認識は、Watch の装着状態、腕の動き、運動中のノイズ、現在の動作状況の影響を受けます。Motune は Apple Watch 上でモーションセンサーデータをローカル処理します。認識が安定しない場合は、1 回ずつ明確に動作し、次の動作の前に手首を自然な位置へ戻してください。
-
-## プライバシーポリシー
-
-最終更新日: 2026-05-08
-
-Motune はデータ収集を最小限に抑える設計です。
-
-### データ収集
-
-Motune はこのアプリから個人データを収集しません。
-
-Motune は以下を使用しません。
-
-- ユーザーアカウント。
-- 広告 SDK。
-- サードパーティ分析 SDK。
-- クロスアプリトラッキング。
-- ユーザープロファイル用のバックエンドサーバー。
-
-### モーションセンサーデータ
-
-Apple Watch のモーションセンサーデータは、ジェスチャー認識のためにデバイス上でローカル処理されます。Motune がモーションセンサーデータを自動的にアップロードすることはありません。
-
-ユーザーが明示的にジェスチャーサンプルツールを使用した場合、デバッグやモデル改善のためにモーションサンプルがデバイス内に保存されることがあります。これらのサンプルは自動的にアップロードされません。
-
-### ヘルスケア権限とヘルスケアデータ
-
-Motune がヘルスケア権限を求める目的は、Apple Watch 上でローカルのワークアウトセッションを開始することだけです。これにより、運動中、別の Watch アプリが前面にある場合、また iPhone がバックグラウンドやロック画面でジェスチャー操作イベントを受け取る場合でも、ジェスチャー認識を継続できます。
-
-Motune は心拍数、歩数、カロリー、ワークアウト履歴、アクティビティリング、その他のヘルスケア記録を読み取りません。Motune は HealthKit データを保存、アップロード、販売、第三者共有しません。
-
-ワークアウトセッションは、継続的なジェスチャー認識と Watch から iPhone へのリアルタイム操作のためのシステム実行メカニズムとしてのみ使用されます。Motune は医療アプリ、フィットネス指導アプリ、健康分析アプリではありません。
-
-### 音楽再生データ
-
-Motune は現在の音楽再生を操作します。再生履歴、プレイリスト、ライブラリ、音楽アカウント情報をアップロードしません。アプリに表示される再生中情報は、ローカル表示と操作のためだけに使われます。
-
-### データ共有
-
-Motune は個人データを販売、貸与、第三者共有しません。
-
-### 保持と削除
-
-Motune にはリモートアカウントデータベースがありません。ローカル設定と任意のローカルジェスチャーサンプルはデバイス上に残ります。iPhone と Apple Watch からアプリを削除することで、ローカルアプリデータを削除できます。
-
-### お問い合わせ
-
-サポートまたはプライバシーに関する質問は、[motune.app@gmail.com](mailto:motune.app@gmail.com) までお問い合わせください。
-
-## サポート
-
-ジェスチャーで音楽を操作できない場合:
-
-1. 音楽アプリで再生または一時停止状態になっていることを確認します。
-2. iPhone と Apple Watch の両方に Motune がインストールされていることを確認します。
-3. ジェスチャー操作がオンであることを確認します。
-4. iPhone と Apple Watch を近くに置き、接続を維持します。
-5. Apple Watch で Motune を一度開き、ジェスチャー認識を開始します。
-
-## 免責事項
-
-Motune は音楽再生操作のための便利ツールです。医療診断、治療、緊急用途、安全上重要な場面での使用を目的としていません。
+<div class="review-links">
+  <a href="privacy"><strong>Privacy Policy</strong><span>Data collection, motion data, Health permission, music playback data, and contact.</span></a>
+  <a href="support"><strong>Support</strong><span>Requirements, setup steps, troubleshooting, Watch install help, and support email.</span></a>
+  <a href="safety"><strong>Safety & Privacy</strong><span>No account, no ads, no tracking, local motion processing, and non-medical use.</span></a>
+  <a href="requirements"><strong>Requirements</strong><span>iOS, watchOS, paired Apple Watch, Motion permission, and optional Health permission.</span></a>
+</div>

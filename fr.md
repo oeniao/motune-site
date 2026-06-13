@@ -1,108 +1,120 @@
-# Motune
+---
+lang: fr
+title: Motune - télécommande musicale par gestes pour Apple Watch
+description: Contrôlez la musique sans toucher vos écouteurs ni parler à Siri. Motune transforme l'Apple Watch en télécommande musicale par gestes pour courir, faire du vélo, les trajets, les gants, Spotify, Apple Music, Shokz et les écouteurs open-ear.
+keywords: contrôle musique Apple Watch gestes, télécommande musique poignet, Spotify Apple Watch gestes, contrôle musique mains libres, musique running, musique vélo, Shokz musique, écouteurs open-ear, touches accidentelles écouteurs, alternative Siri musique
+permalink: /fr
+---
 
-**Contrôlez la musique avec des gestes du poignet sur Apple Watch.**
+<section class="hero">
+  <div class="hero-copy">
+    <img src="assets/images/brand-logo.png" alt="Motune logo" class="brand-logo">
+    <p class="eyebrow">Apple Watch gesture music remote</p>
+    <h1>Contrôlez la musique sans toucher vos écouteurs ni parler à Siri.</h1>
+    <p class="lede">Motune transforme votre Apple Watch en télécommande musicale par gestes du poignet. Elle est conçue pour courir, faire du vélo, les trajets, les gants d'hiver, les écouteurs open-ear, les touches accidentelles et les moments où l'écran ou la voix ne sont pas pratiques.</p>
+    <div class="hero-actions"><a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="button">Télécharger sur l'App Store</a><a href="support" class="button secondary">Support</a></div>
+  </div>
+  <div class="hero-media"><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Motune mode entraînement"></div>
+</section>
 
-Motune vous permet de contrôler la lecture musicale de votre iPhone depuis votre Apple Watch, avec de simples gestes du poignet. L’app est conçue pour la course, la marche, la salle de sport et les moments où l’iPhone est dans une poche, un brassard ou hors de portée.
+<section class="download-card">
+  <div><p class="eyebrow">Télécharger Motune</p><h2>Scannez pour ouvrir Motune sur l'App Store.</h2><p>Utilisez le QR code depuis un autre appareil ou ouvrez le lien App Store directement sur iPhone.</p></div>
+  <div class="qr-panel"><img src="assets/images/app-store-qr.png" alt="QR code pour télécharger Motune"><a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="app-store-badge compact" aria-label="Download Motune on the App Store"><span class="app-store-mark"></span><span><small>Download on the</small><strong>App Store</strong></span></a><span>Scannez avec l'appareil photo de l'iPhone</span></div>
+</section>
 
-## Présentation
+## Conçu pour les vraies frictions du contrôle musical
 
-- Contrôle la musique en cours de lecture sur l’iPhone.
-- Reconnaît les gestes du poignet sur Apple Watch.
-- Envoie les gestes reconnus à l’iPhone pour exécuter les commandes musicales.
-- Permet de personnaliser l’action associée à chaque geste.
-- Fonctionne sans compte, sans publicité, sans suivi et sans service cloud.
+<div class="pain-grid">
+  <div class="panel"><h3>Sans petites touches d'écouteurs</h3><p>Les commandes des écouteurs peuvent se déclencher par erreur quand vous courez, transpirez, ajustez l'écouteur, portez un bonnet ou bougez vite.</p></div>
+  <div class="panel"><h3>Sans commandes vocales gênantes</h3><p>Siri est utile, mais dire une commande musicale en public, dans le vent, la circulation ou une salle de sport bruyante peut être lent ou peu fiable.</p></div>
+  <div class="panel"><h3>Sans toucher un petit écran</h3><p>Now Playing fonctionne quand vous pouvez regarder et toucher. Motune sert quand vos yeux, vos mains ou vos gants rendent cela peu pratique.</p></div>
+  <div class="panel"><h3>Fait pour le mouvement</h3><p>Utilisez des gestes du poignet pour lecture, pause, piste suivante et piste précédente en courant, à vélo, en marchant, en trajet ou en cuisinant.</p></div>
+</div>
 
-Motune se concentre sur le contrôle de la musique. Ce n’est pas une app sociale, une app médicale ni un service de coaching sportif.
+## Histoires utilisateur
 
-## Configuration requise
+<div class="story-grid">
+  <div class="panel story"><p class="story-role">Coureur avec écouteurs</p><h3>« Je rate souvent le toucher de l'écouteur en courant. »</h3><p>Motune permet de changer de piste, revenir, lire ou mettre en pause avec un geste clair du poignet.</p></div>
+  <div class="panel story"><p class="story-role">Marcheur en hiver</p><h3>« Les petits contrôles sont pénibles avec des gants. »</h3><p>Pas besoin d'enlever les gants ou de sortir le téléphone : un geste intentionnel sur la Watch suffit.</p></div>
+  <div class="panel story"><p class="story-role">Cycliste ou utilisateur open-ear</p><h3>« Je ne veux pas Siri dans le vent ni toucher mes écouteurs. »</h3><p>Motune peut servir de couche de contrôle au poignet pour Shokz, open-ear, conduction osseuse et écouteurs quotidiens.</p></div>
+</div>
 
-- iPhone sous iOS 18 ou version ultérieure.
-- Apple Watch sous watchOS 11 ou version ultérieure.
-- Apple Watch jumelée et connectée à l’iPhone.
-- Autorisation Mouvement et forme sur Apple Watch.
-- Autorisation Santé si l’app utilise une session d’entraînement pour maintenir la reconnaissance des gestes active.
+## Captures V1.5
 
-## Utilisation
+<p class="section-intro">V1.5 améliore le mode entraînement, les actions personnalisées, les réglages avancés, la Live Card sur l'écran verrouillé et l'entraînement aux gestes.</p>
+
+<div id="screenshots" class="screenshot-grid">
+  <figure><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Contrôles du poignet"><figcaption>Contrôle au poignet en entraînement</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.5/02-customize-gesture-actions.png" alt="Personnaliser les actions"><figcaption>Choisir l'action de chaque geste</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.5/03-advanced-gesture-models.png" alt="Modèles avancés"><figcaption>Modèles avancés</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.5/04-lock-screen-live-card.png" alt="Live Card écran verrouillé"><figcaption>État sur l'écran verrouillé</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.5/05-gesture-practice-guide.png" alt="Guide de pratique"><figcaption>S'entraîner avant de commencer</figcaption></figure>
+</div>
+
+## Ce que fait Motune
+
+Motune n'est pas un autre lecteur musical. C'est une télécommande par gestes pour l'app musicale que vous utilisez déjà. Lancez la musique, activez Gesture Music Control, puis utilisez le poignet pour lire, mettre en pause ou changer de piste sans toucher les écouteurs, parler à Siri ou sortir le téléphone.
+
+<div class="feature-grid">
+  <div class="panel"><h3>Contrôle de la lecture actuelle</h3><p>Contrôle la session multimédia actuelle de l'iPhone, y compris des cas courants avec Apple Music et Spotify.</p></div>
+  <div class="panel"><h3>Gestes Apple Watch</h3><p>Reconnaît des mouvements intentionnels du poignet sur Apple Watch et envoie l'action à l'iPhone.</p></div>
+  <div class="panel"><h3>Mode standard ou entraînement</h3><p>Utilisez le mode standard avec l'app Watch ouverte, ou démarrez le mode entraînement pour courir, marcher ou vous entraîner.</p></div>
+  <div class="panel"><h3>Actions personnalisées</h3><p>Gardez le réglage par défaut, changez les actions ou désactivez les gestes inutiles.</p></div>
+</div>
+
+## Fonctionnement
 
 1. Installez Motune sur iPhone et Apple Watch.
-2. Ouvrez votre app de musique et lancez la lecture.
-3. Ouvrez Motune et activez le contrôle par gestes.
-4. Portez l’Apple Watch normalement.
-5. Utilisez les gestes du poignet pour contrôler la musique.
+2. Lancez la musique dans votre app préférée.
+3. Ouvrez Motune et activez Gesture Music Control.
+4. Choisissez le mode standard ou entraînement.
+5. Faites un geste clair, revenez en position neutre, puis attendez 1 seconde.
+6. Motune reconnaît le geste sur Apple Watch et contrôle la lecture actuelle sur iPhone.
 
-Gestes par défaut:
+## FAQ
 
-| Geste | Action par défaut |
-|---|---|
-| Tourner le poignet vers l’extérieur puis revenir | Morceau précédent |
-| Tourner le poignet vers l’intérieur puis revenir | Morceau suivant |
-| Tourner la paume vers le haut puis revenir | Lecture |
-| Plier la paume vers le bas puis revenir | Pause |
+<div class="faq-grid">
+  <div class="panel"><h3>Pourquoi Motune si mes écouteurs ont déjà des commandes ?</h3><p>Les commandes d'écouteurs sont utiles, mais pas toujours fiables en courant, à vélo, avec la transpiration, les gants ou quand vous ajustez l'écouteur. Motune offre une option depuis le poignet.</p></div>
+  <div class="panel"><h3>Pourquoi ne pas utiliser Siri ?</h3><p>Siri peut fonctionner, mais les commandes musicales sont petites et fréquentes. Les dire en public peut être lent, gênant ou peu fiable dans le bruit.</p></div>
+  <div class="panel"><h3>Pourquoi pas Now Playing ?</h3><p>Now Playing fonctionne quand vous pouvez regarder et toucher. En courant, à vélo, en trajet, avec des gants ou des objets en main, les gestes du poignet peuvent être plus rapides.</p></div>
+  <div class="panel"><h3>Motune fonctionne avec Spotify, Apple Music ou Shokz ?</h3><p>Motune contrôle la lecture multimédia du système. Il peut être utile avec Apple Music, Spotify, AirPods, Shokz, open-ear, conduction osseuse et autres écouteurs si la lecture répond aux commandes système.</p></div>
+</div>
 
-Vous pouvez modifier l’action musicale associée à chaque geste dans Réglages.
+## Sécurité et confidentialité
 
-## Reconnaissance des gestes
+- Pas de compte.
+- Pas de publicité.
+- Pas de SDK d'analytique tiers.
+- Pas de suivi inter-apps.
+- Les données de mouvement sont traitées localement pour la reconnaissance des gestes.
+- Motune est un outil de contrôle musical, pas un outil médical, d'urgence, de navigation ou de sécurité critique.
 
-La reconnaissance dépend de la façon dont la montre est portée, des mouvements du bras, du bruit de mouvement et de l’activité en cours. Motune traite les données de mouvement localement sur l’Apple Watch. Si la reconnaissance est instable, effectuez un geste clair à la fois et revenez à une position détendue avant le geste suivant.
+## Prérequis
 
-## Politique de confidentialité
+- iPhone sous iOS 18 ou plus récent.
+- Apple Watch sous watchOS 11 ou plus récent.
+- Motune installé sur iPhone et Apple Watch.
+- Apple Watch jumelée et connectée à l'iPhone.
+- Autorisation de mouvement sur Apple Watch.
+- Autorisation Santé uniquement si l'utilisateur démarre le mode entraînement.
 
-Dernière mise à jour: 2026-05-08
+## Langues
 
-Motune est conçu pour minimiser la collecte de données.
+- [English](en)
+- [简体中文](zh-Hans)
+- [繁體中文](zh-Hant)
+- [日本語](ja)
+- [한국어](ko)
+- [Español](es)
+- [Français](fr)
+- [Deutsch](de)
+- [العربية](ar)
 
-### Collecte de données
+## App Store Review Links
 
-Motune ne collecte pas de données personnelles depuis cette app.
-
-Motune n’utilise pas:
-
-- De comptes utilisateur.
-- De SDK publicitaire.
-- De SDK d’analyse tiers.
-- De suivi entre apps.
-- De serveur backend pour créer des profils utilisateur.
-
-### Données des capteurs de mouvement
-
-Les données des capteurs de mouvement de l’Apple Watch sont traitées localement sur l’appareil pour reconnaître les gestes. Motune ne téléverse pas automatiquement ces données.
-
-Si vous utilisez explicitement l’outil d’échantillons de gestes, des échantillons de mouvement peuvent être enregistrés localement sur votre appareil pour le débogage ou l’amélioration du modèle. Ces échantillons ne sont pas téléversés automatiquement.
-
-### Autorisation Santé et données Santé
-
-Motune peut demander l’autorisation Santé uniquement pour démarrer une session d’entraînement locale sur Apple Watch. Cela permet à la reconnaissance des gestes de continuer pendant les activités, lorsqu’une autre app Watch est au premier plan, et lorsque l’iPhone reçoit des événements de contrôle gestuel en arrière-plan ou sur l’écran verrouillé.
-
-Motune ne lit pas la fréquence cardiaque, les pas, les calories, l’historique d’entraînement, les anneaux d’activité ni d’autres données de santé. Motune ne stocke, ne téléverse, ne vend ni ne partage les données HealthKit avec des tiers.
-
-La session d’entraînement est utilisée uniquement comme mécanisme système pour la reconnaissance continue des gestes et le contrôle en temps réel entre Watch et iPhone. Motune n’est pas une app médicale, de coaching sportif ni d’analyse de santé.
-
-### Données de lecture musicale
-
-Motune contrôle la lecture musicale en cours. L’app ne téléverse pas votre historique d’écoute, vos playlists, votre bibliothèque ni vos informations de compte musical. Les informations de lecture affichées dans l’app sont utilisées localement pour l’affichage et le contrôle.
-
-### Partage de données
-
-Motune ne vend, ne loue et ne partage pas de données personnelles avec des tiers.
-
-### Conservation et suppression
-
-Motune ne possède pas de base de données de comptes distante. Les réglages locaux et les éventuels échantillons de gestes restent sur votre appareil. Vous pouvez supprimer les données locales en supprimant l’app de l’iPhone et de l’Apple Watch.
-
-### Contact
-
-Pour obtenir de l’aide ou poser une question sur la confidentialité, contactez: [motune.app@gmail.com](mailto:motune.app@gmail.com).
-
-## Support
-
-Si les gestes ne contrôlent pas la musique:
-
-1. Vérifiez qu’une app de musique est en lecture ou en pause.
-2. Vérifiez que Motune est installé sur l’iPhone et l’Apple Watch.
-3. Vérifiez que le contrôle par gestes est activé.
-4. Gardez l’iPhone et l’Apple Watch proches et connectés.
-5. Ouvrez Motune une fois sur l’Apple Watch pour démarrer la reconnaissance.
-
-## Avertissement
-
-Motune est un outil pratique de contrôle musical. Il n’est pas destiné au diagnostic médical, au traitement, aux urgences ni aux situations critiques pour la sécurité.
+<div class="review-links">
+  <a href="privacy"><strong>Privacy Policy</strong><span>Data collection, motion data, Health permission, music playback data, and contact.</span></a>
+  <a href="support"><strong>Support</strong><span>Requirements, setup steps, troubleshooting, Watch install help, and support email.</span></a>
+  <a href="safety"><strong>Safety & Privacy</strong><span>No account, no ads, no tracking, local motion processing, and non-medical use.</span></a>
+  <a href="requirements"><strong>Requirements</strong><span>iOS, watchOS, paired Apple Watch, Motion permission, and optional Health permission.</span></a>
+</div>

@@ -1,6 +1,11 @@
 title: Motune
-description: Wrist gestures for music control on Apple Watch.
+tagline: Apple Watch gesture music remote
+description: Control music without touching earbuds or talking to Siri. Motune turns Apple Watch into a wrist gesture remote for running, cycling, commuting, gloves, Spotify, Apple Music, Shokz, and open-ear headphones.
+url: "https://oeniao.github.io"
+baseurl: "/motune-site"
+logo: /assets/images/icon-192.png
+image: /assets/screenshots/v1.5/01-workout-mode-wrist-controls.png
+lang: en
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
-
