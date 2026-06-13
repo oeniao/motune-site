@@ -1,0 +1,22 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {% assign pages = "/,/en,/zh-Hans,/zh-Hant,/ja,/ko,/es,/fr,/de,/ar,/privacy,/support,/safety,/requirements" | split: "," %}
+  {% assign alternates = "/,/en,/zh-Hans,/zh-Hant,/ja,/ko,/es,/fr,/de,/ar" | split: "," %}
+  {% assign hreflangs = "x-default,en,zh-Hans,zh-Hant,ja,ko,es,fr,de,ar" | split: "," %}
+  {% for path in pages %}
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}{{ path }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>{% if path == "/" %}weekly{% else %}monthly{% endif %}</changefreq>
+    <priority>{% if path == "/" %}1.0{% elsif alternates contains path %}0.9{% else %}0.6{% endif %}</priority>
+    {% if alternates contains path %}
+    {% for alternate in alternates %}
+    <xhtml:link rel="alternate" hreflang="{{ hreflangs[forloop.index0] }}" href="{{ site.url }}{{ site.baseurl }}{{ alternate }}" />
+    {% endfor %}
+    {% endif %}
+  </url>
+  {% endfor %}
+</urlset>
