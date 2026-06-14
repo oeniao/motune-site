@@ -145,6 +145,14 @@ Motune 不是另一个音乐播放器，而是你已有音乐 App 的手腕手�
 
 <div class="faq-grid">
   <div class="panel">
+    <h3>Motune 是什么？</h3>
+    <p>Motune 是一个 Apple Watch 手腕手势音乐遥控器。它让你不用碰耳机、不用喊 Siri、不用点很小的控制界面，也能用手腕动作控制 iPhone 当前播放。</p>
+  </div>
+  <div class="panel">
+    <h3>Motune 适合什么用户？</h3>
+    <p>Motune 适合跑步、骑行、通勤、健身、冬天戴手套、使用开放式耳机或骨传导耳机，以及希望减少耳机触控、语音命令和屏幕点击的用户。</p>
+  </div>
+  <div class="panel">
     <h3>耳机已经能控制音乐，为什么还需要 Motune？</h3>
     <p>耳机控制很有用，但在跑步、骑行、出汗、戴手套或调整佩戴时，小触控区容易误触。Motune 给你一个不用碰耳机的手腕控制方式。</p>
   </div>
@@ -159,6 +167,74 @@ Motune 不是另一个音乐播放器，而是你已有音乐 App 的手腕手�
   <div class="panel">
     <h3>支持 Spotify、Apple Music、Shokz 吗？</h3>
     <p>Motune 控制系统级媒体播放。只要当前播放能通过系统媒体控制响应，它就可以用于 Apple Music、Spotify、AirPods、Shokz、开放式耳机和骨传导耳机等场景。</p>
+  </div>
+  <div class="panel">
+    <h3>Motune 可以控制哪些 App？</h3>
+    <p>只要当前 App 响应 iOS 系统媒体控制，Motune 就可以控制 iPhone 当前播放。常见场景包括 Apple Music、Spotify、YouTube Music、YouTube、播客 App、Audible、Overcast、Pocket Casts、TikTok 音频或视频播放、QQ 音乐、网易云音乐、酷狗音乐、酷我音乐，以及其他支持系统播放控制的音频 App。</p>
+  </div>
+  <div class="panel">
+    <h3>Motune 支持 Spotify 吗？</h3>
+    <p>当 Spotify 是当前播放来源，并且能响应 iPhone 系统媒体控制时，Motune 可以用于 Spotify 播放、暂停、上一首和下一首等操作。很多用户关注这个场景，是因为 Apple Watch Double Tap 和 Spotify 的组合有时不够直接。</p>
+  </div>
+  <div class="panel">
+    <h3>Motune 支持 YouTube Music、YouTube、TikTok 或 TikTok Music 吗？</h3>
+    <p>Motune 不绑定某一个音乐服务。只要 YouTube Music、YouTube、TikTok、TikTok Music 类播放或其他媒体 App 把播放、暂停、上一首、下一首暴露给 iOS 系统媒体控制，Motune 就可以通过 Apple Watch 手势发送这些控制命令。</p>
+  </div>
+  <div class="panel">
+    <h3>Motune 支持 QQ 音乐、网易云音乐、酷狗音乐、酷我音乐吗？</h3>
+    <p>当 QQ 音乐、网易云音乐、酷狗音乐、酷我音乐等中文音乐 App 的当前播放能响应 iOS 系统媒体控制时，Motune 可以作为 Apple Watch 手势遥控器使用。</p>
+  </div>
+  <div class="panel">
+    <h3>Motune 适配哪些耳机？</h3>
+    <p>Motune 不依赖某个耳机品牌，因为它从 Apple Watch 和 iPhone 控制播放。它适合 AirPods、AirPods Pro、Beats、Shokz、Bose、Sony、开放式耳机、骨传导耳机、跑步耳机、骑行耳机、健身耳机，以及冬天戴手套时使用的耳机。</p>
+  </div>
+  <div class="panel">
+    <h3>Motune 和 Siri、AirPods 控制、Double Tap、Now Playing 有什么区别？</h3>
+    <p>Siri 需要语音，AirPods 和运动耳机通常依赖小触控区或按键，Double Tap 是系统手势且上下文有限，Now Playing 需要看屏幕并点击。Motune 是专门为音乐控制设计的 Apple Watch 手腕手势遥控器，并且可以自定义动作。</p>
+  </div>
+  <div class="panel">
+    <h3>Motune 是音乐播放器吗？</h3>
+    <p>不是。Motune 不是流媒体音乐 App，也不替代 Spotify 或 Apple Music。你先在常用音乐 App 中开始播放，再用 Motune 作为 Apple Watch 手势遥控器控制播放。</p>
+  </div>
+  <div class="panel">
+    <h3>Apple Watch Double Tap 不够用时，Motune 有帮助吗？</h3>
+    <p>Motune 面向想要独立音乐控制流程的 Apple Watch 用户。它可以把上一首、下一首、播放、暂停分别映射到不同手势，而不是只依赖单一系统手势。</p>
+  </div>
+  <div class="panel">
+    <h3>Motune 可以控制哪些音乐动作？</h3>
+    <p>Motune 聚焦最常用的播放控制：上一首、下一首、播放和暂停。你可以使用默认映射，也可以自定义每个手势对应的动作。</p>
+  </div>
+  <div class="panel">
+    <h3>Motune 使用哪些手势？</h3>
+    <p>Motune 使用清晰的手腕动作，例如向外旋转、向内旋转、手掌向上和手掌向下。为了提高识别效果，建议每次做一个动作，回到自然位置，然后短暂停顿。</p>
+  </div>
+  <div class="panel">
+    <h3>运动模式是什么？</h3>
+    <p>运动模式由用户主动开启，适合跑步、走路或训练时使用，让手势控制在运动过程中保持可用。Motune 不读取心率、卡路里、健身圆环或历史运动记录。</p>
+  </div>
+  <div class="panel">
+    <h3>跑步或骑行时可以用 Motune 吗？</h3>
+    <p>Motune 适合运动中的音乐控制，尤其是耳机触控、拿手机或点屏幕不方便的时候。它只是音乐播放控制工具，使用时仍需要注意周围环境。</p>
+  </div>
+  <div class="panel">
+    <h3>戴冬天手套或骑行手套时有帮助吗？</h3>
+    <p>有。这是 Motune 的主要场景之一。手套会让小屏幕点击和耳机触控更难用，Motune 把音乐控制转移到 Apple Watch 手腕手势上。</p>
+  </div>
+  <div class="panel">
+    <h3>开放式耳机、骨传导耳机可以用吗？</h3>
+    <p>只要 iPhone 当前播放能响应系统媒体控制，Motune 就可以作为 Shokz、开放式耳机、骨传导耳机、AirPods 和日常耳机的手腕控制层。</p>
+  </div>
+  <div class="panel">
+    <h3>Motune 会收集个人数据吗？</h3>
+    <p>Motune 不需要账号，不接入广告，也不使用第三方分析 SDK。手势识别所需的运动数据在本机处理，用户主动保存的手势样本也保存在本地。</p>
+  </div>
+  <div class="panel">
+    <h3>使用 Motune 需要什么设备和权限？</h3>
+    <p>你需要 iPhone、已配对的 Apple Watch、两端都安装 Motune，并授予 Apple Watch 运动权限。只有用户选择开启运动模式时，才需要健康权限。</p>
+  </div>
+  <div class="panel">
+    <h3>如果手势没有识别出来怎么办？</h3>
+    <p>可以先使用手势指南练习动作，确保动作清晰、回到自然位置，并在下一次动作前停约 1 秒。你也可以调整手势动作，或使用高级识别设置获得更多控制。</p>
   </div>
 </div>
 
