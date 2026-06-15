@@ -19,7 +19,7 @@ faq_schema: true
     </div>
   </div>
   <div class="hero-media">
-    <img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Motune workout mode App Store screenshot">
+    <img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Motune workout mode App Store screenshot">
   </div>
 </section>
 
@@ -83,30 +83,34 @@ faq_schema: true
   </div>
 </div>
 
-## V1.5 Screenshots
+## V1.7 Screenshots
 
-<p class="section-intro">Version 1.5 refreshes Workout Mode status, custom gesture actions, advanced recognition settings, Lock Screen Live Card visibility, and guided gesture practice.</p>
+<p class="section-intro">Version 1.7 focuses the App Store presentation around the clearest user moments: wrist gesture music control, running without earbud taps, glove-friendly control, phone-away playback, gesture practice, and no Siri waiting.</p>
 
 <div id="screenshots" class="screenshot-grid">
   <figure>
-    <img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Workout Mode wrist controls screenshot">
-    <figcaption>Workout Mode with wrist controls</figcaption>
+    <img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Control music with Apple Watch wrist gestures screenshot">
+    <figcaption>Control music with wrist gestures</figcaption>
   </figure>
   <figure>
-    <img src="assets/screenshots/v1.5/02-customize-gesture-actions.png" alt="Customize gesture actions screenshot">
-    <figcaption>Choose what each gesture does</figcaption>
+    <img src="assets/screenshots/v1.7/02-no-earbud-taps-while-running.png" alt="No earbud taps while running screenshot">
+    <figcaption>No earbud taps while running</figcaption>
   </figure>
   <figure>
-    <img src="assets/screenshots/v1.5/03-advanced-gesture-models.png" alt="Advanced gesture recognition models screenshot">
-    <figcaption>Advanced gesture models</figcaption>
+    <img src="assets/screenshots/v1.7/03-control-music-with-gloves.png" alt="Control music with gloves on screenshot">
+    <figcaption>Control music with gloves on</figcaption>
   </figure>
   <figure>
-    <img src="assets/screenshots/v1.5/04-lock-screen-live-card.png" alt="Lock Screen Live Card screenshot">
-    <figcaption>Gesture status on Lock Screen</figcaption>
+    <img src="assets/screenshots/v1.7/04-phone-stays-away.png" alt="Phone stays away while controlling music screenshot">
+    <figcaption>Your phone stays away</figcaption>
   </figure>
   <figure>
-    <img src="assets/screenshots/v1.5/05-gesture-practice-guide.png" alt="Gesture practice guide screenshot">
-    <figcaption>Practice before you start</figcaption>
+    <img src="assets/screenshots/v1.7/05-practice-then-customize.png" alt="Practice gestures then customize screenshot">
+    <figcaption>Practice gestures, then customize</figcaption>
+  </figure>
+  <figure>
+    <img src="assets/screenshots/v1.7/06-no-siri-no-waiting.png" alt="No Hi Siri and no waiting music control screenshot">
+    <figcaption>No Hi Siri. No waiting.</figcaption>
   </figure>
 </div>
 

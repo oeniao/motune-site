@@ -14,7 +14,7 @@ permalink: /de
     <p class="lede">Motune macht deine Apple Watch zur Musik-Fernbedienung per Handgelenk-Geste. Entwickelt für Laufen, Radfahren, Pendeln, Winterhandschuhe, Open-Ear-Kopfhörer, versehentliche Earbud-Taps und Momente, in denen Bildschirmtippen oder Sprachbefehle unpraktisch sind.</p>
     <div class="hero-actions"><a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="button">Im App Store laden</a><a href="support" class="button secondary">Support</a></div>
   </div>
-  <div class="hero-media"><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Motune Workout-Modus Screenshot"></div>
+  <div class="hero-media"><img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Motune Workout-Modus Screenshot"></div>
 </section>
 
 <section class="download-card">
@@ -39,16 +39,17 @@ permalink: /de
   <div class="panel story"><p class="story-role">Radfahrer oder Open-Ear-Nutzer</p><h3>„Ich will im Wind nicht Siri nutzen oder Kopfhörer anfassen.“</h3><p>Motune kann eine Handgelenk-Bedienebene für Shokz, Open-Ear- und Knochenleitungs-Kopfhörer sein.</p></div>
 </div>
 
-## V1.5 Screenshots
+## V1.7 Screenshots
 
-<p class="section-intro">V1.5 verbessert Workout Mode, frei wählbare Gestenaktionen, erweiterte Erkennung, Lock-Screen Live Card und Gestenübungen.</p>
+<p class="section-intro">V1.7 zeigt die wichtigsten Nutzungsmomente klarer: Musik per Handgelenk-Geste steuern, beim Laufen keine Earbuds antippen, mit Handschuhen steuern, das Telefon liegen lassen, Gesten üben und nicht auf Siri warten.</p>
 
 <div id="screenshots" class="screenshot-grid">
-  <figure><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Workout Mode wrist controls"><figcaption>Handgelenk-Steuerung im Workout</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/02-customize-gesture-actions.png" alt="Customize gesture actions"><figcaption>Aktion pro Geste wählen</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/03-advanced-gesture-models.png" alt="Advanced gesture models"><figcaption>Erweiterte Modelle</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/04-lock-screen-live-card.png" alt="Lock Screen Live Card"><figcaption>Status auf dem Sperrbildschirm</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/05-gesture-practice-guide.png" alt="Gesture practice guide"><figcaption>Vor dem Start üben</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Musik per Handgelenk-Geste steuern"><figcaption>Musik per Geste steuern</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/02-no-earbud-taps-while-running.png" alt="Keine Earbud-Taps beim Laufen"><figcaption>Keine Earbud-Taps beim Laufen</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/03-control-music-with-gloves.png" alt="Musik mit Handschuhen steuern"><figcaption>Steuerung mit Handschuhen</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/04-phone-stays-away.png" alt="Das Telefon bleibt weg"><figcaption>Das Telefon bleibt weg</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/05-practice-then-customize.png" alt="Gesten üben und anpassen"><figcaption>Üben, dann anpassen</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/06-no-siri-no-waiting.png" alt="Kein Siri und kein Warten"><figcaption>Kein Siri. Kein Warten.</figcaption></figure>
 </div>
 
 ## Was Motune macht

@@ -18,7 +18,7 @@ permalink: /zh-Hans
     </div>
   </div>
   <div class="hero-media">
-    <img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Motune 运动手势控制截图">
+    <img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Motune 运动手势控制截图">
   </div>
 </section>
 
@@ -82,30 +82,34 @@ permalink: /zh-Hans
   </div>
 </div>
 
-## V1.5 截图
+## V1.7 截图
 
-<p class="section-intro">V1.5 改进了运动模式状态、自定义手势、进阶识别设置、锁屏 Live Card 和手势练习流程。</p>
+<p class="section-intro">V1.7 围绕更清晰的用户场景展示：手腕手势控制音乐、跑步不用按耳机、戴手套也能控制、手机不用拿出来、先练习再自定义，以及不用喊 Siri、不用等待。</p>
 
 <div id="screenshots" class="screenshot-grid">
   <figure>
-    <img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="运动模式手势控制截图">
-    <figcaption>运动模式手腕控制</figcaption>
+    <img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Apple Watch 手腕手势控制音乐截图">
+    <figcaption>用手腕手势控制音乐</figcaption>
   </figure>
   <figure>
-    <img src="assets/screenshots/v1.5/02-customize-gesture-actions.png" alt="自定义手势动作截图">
-    <figcaption>自定义每个手势的动作</figcaption>
+    <img src="assets/screenshots/v1.7/02-no-earbud-taps-while-running.png" alt="跑步时不用按耳机截图">
+    <figcaption>跑步不用按耳机</figcaption>
   </figure>
   <figure>
-    <img src="assets/screenshots/v1.5/03-advanced-gesture-models.png" alt="进阶手势识别模型截图">
-    <figcaption>进阶手势识别模型</figcaption>
+    <img src="assets/screenshots/v1.7/03-control-music-with-gloves.png" alt="戴手套控制音乐截图">
+    <figcaption>戴手套也能控制音乐</figcaption>
   </figure>
   <figure>
-    <img src="assets/screenshots/v1.5/04-lock-screen-live-card.png" alt="锁屏 Live Card 截图">
-    <figcaption>锁屏显示手势状态</figcaption>
+    <img src="assets/screenshots/v1.7/04-phone-stays-away.png" alt="手机不用拿出来控制音乐截图">
+    <figcaption>手机不用拿出来</figcaption>
   </figure>
   <figure>
-    <img src="assets/screenshots/v1.5/05-gesture-practice-guide.png" alt="手势练习引导截图">
-    <figcaption>正式使用前先练习</figcaption>
+    <img src="assets/screenshots/v1.7/05-practice-then-customize.png" alt="练习手势并自定义动作截图">
+    <figcaption>先练习，再自定义</figcaption>
+  </figure>
+  <figure>
+    <img src="assets/screenshots/v1.7/06-no-siri-no-waiting.png" alt="不用喊 Siri 不用等待截图">
+    <figcaption>不用喊 Siri，不用等待</figcaption>
   </figure>
 </div>
 

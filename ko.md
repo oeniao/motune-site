@@ -14,7 +14,7 @@ permalink: /ko
     <p class="lede">Motune은 Apple Watch를 음악용 손목 제스처 리모컨으로 바꿉니다. 달리기, 자전거, 출퇴근, 겨울 장갑, 오픈이어 헤드폰, 이어버드 오작동, 화면 탭이나 음성 명령이 불편한 순간을 위해 만들었습니다.</p>
     <div class="hero-actions"><a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="button">App Store에서 다운로드</a><a href="support" class="button secondary">지원</a></div>
   </div>
-  <div class="hero-media"><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Motune workout mode screenshot"></div>
+  <div class="hero-media"><img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Motune workout mode screenshot"></div>
 </section>
 
 <section class="download-card">
@@ -39,16 +39,17 @@ permalink: /ko
   <div class="panel story"><p class="story-role">자전거 / 오픈이어 사용자</p><h3>"바람 속에서 Siri를 쓰거나 이어버드를 만지고 싶지 않아요."</h3><p>Motune은 Shokz, 오픈이어, 골전도 헤드폰을 위한 손목 제어 레이어가 될 수 있습니다.</p></div>
 </div>
 
-## V1.5 스크린샷
+## V1.7 스크린샷
 
-<p class="section-intro">V1.5는 운동 모드 상태, 사용자 지정 제스처, 고급 인식 설정, 잠금 화면 Live Card, 제스처 연습을 개선했습니다.</p>
+<p class="section-intro">V1.7은 손목 제스처 음악 제어, 달릴 때 이어버드 탭 없이 제어, 장갑을 낀 상태의 제어, 휴대폰을 꺼내지 않는 재생 제어, 제스처 연습, Siri 없이 기다리지 않는 흐름을 더 명확하게 보여줍니다.</p>
 
 <div id="screenshots" class="screenshot-grid">
-  <figure><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Workout Mode wrist controls"><figcaption>운동 모드 손목 제어</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/02-customize-gesture-actions.png" alt="Customize gesture actions"><figcaption>제스처 동작 선택</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/03-advanced-gesture-models.png" alt="Advanced gesture models"><figcaption>고급 인식 모델</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/04-lock-screen-live-card.png" alt="Lock Screen Live Card"><figcaption>잠금 화면 상태 표시</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/05-gesture-practice-guide.png" alt="Gesture practice guide"><figcaption>사용 전 연습</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Apple Watch wrist gesture music control"><figcaption>손목 제스처로 음악 제어</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/02-no-earbud-taps-while-running.png" alt="No earbud taps while running"><figcaption>달릴 때 이어버드 탭 없이</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/03-control-music-with-gloves.png" alt="Control music with gloves"><figcaption>장갑을 낀 채 음악 제어</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/04-phone-stays-away.png" alt="Phone stays away"><figcaption>휴대폰은 그대로</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/05-practice-then-customize.png" alt="Practice then customize gestures"><figcaption>연습 후 사용자 지정</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/06-no-siri-no-waiting.png" alt="No Siri no waiting"><figcaption>Siri 없이 기다리지 않기</figcaption></figure>
 </div>
 
 ## Motune의 역할

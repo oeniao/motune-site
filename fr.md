@@ -14,7 +14,7 @@ permalink: /fr
     <p class="lede">Motune transforme votre Apple Watch en télécommande musicale par gestes du poignet. Elle est conçue pour courir, faire du vélo, les trajets, les gants d'hiver, les écouteurs open-ear, les touches accidentelles et les moments où l'écran ou la voix ne sont pas pratiques.</p>
     <div class="hero-actions"><a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="button">Télécharger sur l'App Store</a><a href="support" class="button secondary">Support</a></div>
   </div>
-  <div class="hero-media"><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Motune mode entraînement"></div>
+  <div class="hero-media"><img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Motune mode entraînement"></div>
 </section>
 
 <section class="download-card">
@@ -39,16 +39,17 @@ permalink: /fr
   <div class="panel story"><p class="story-role">Cycliste ou utilisateur open-ear</p><h3>« Je ne veux pas Siri dans le vent ni toucher mes écouteurs. »</h3><p>Motune peut servir de couche de contrôle au poignet pour Shokz, open-ear, conduction osseuse et écouteurs quotidiens.</p></div>
 </div>
 
-## Captures V1.5
+## Captures V1.7
 
-<p class="section-intro">V1.5 améliore le mode entraînement, les actions personnalisées, les réglages avancés, la Live Card sur l'écran verrouillé et l'entraînement aux gestes.</p>
+<p class="section-intro">V1.7 présente plus clairement les moments clés : contrôler la musique par gestes du poignet, courir sans toucher les écouteurs, utiliser des gants, garder le téléphone rangé, pratiquer les gestes et éviter d'attendre Siri.</p>
 
 <div id="screenshots" class="screenshot-grid">
-  <figure><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Contrôles du poignet"><figcaption>Contrôle au poignet en entraînement</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/02-customize-gesture-actions.png" alt="Personnaliser les actions"><figcaption>Choisir l'action de chaque geste</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/03-advanced-gesture-models.png" alt="Modèles avancés"><figcaption>Modèles avancés</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/04-lock-screen-live-card.png" alt="Live Card écran verrouillé"><figcaption>État sur l'écran verrouillé</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/05-gesture-practice-guide.png" alt="Guide de pratique"><figcaption>S'entraîner avant de commencer</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Contrôler la musique par gestes du poignet"><figcaption>Contrôler par gestes</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/02-no-earbud-taps-while-running.png" alt="Sans toucher les écouteurs en courant"><figcaption>Sans toucher les écouteurs</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/03-control-music-with-gloves.png" alt="Contrôler la musique avec des gants"><figcaption>Contrôle avec des gants</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/04-phone-stays-away.png" alt="Le téléphone reste rangé"><figcaption>Le téléphone reste rangé</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/05-practice-then-customize.png" alt="Pratiquer puis personnaliser les gestes"><figcaption>Pratiquer puis personnaliser</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/06-no-siri-no-waiting.png" alt="Sans Siri et sans attente"><figcaption>Sans Siri. Sans attente.</figcaption></figure>
 </div>
 
 ## Ce que fait Motune

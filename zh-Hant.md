@@ -18,7 +18,7 @@ permalink: /zh-Hant
     </div>
   </div>
   <div class="hero-media">
-    <img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Motune 運動手勢控制截圖">
+    <img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Motune 運動手勢控制截圖">
   </div>
 </section>
 
@@ -55,16 +55,17 @@ permalink: /zh-Hant
   <div class="panel story"><p class="story-role">騎行或開放式耳機使用者</p><h3>「我不想在風噪裡喊 Siri，也不想摸耳機。」</h3><p>Motune 可以成為 Shokz、開放式耳機和骨傳導耳機的手腕控制層。</p></div>
 </div>
 
-## V1.5 截圖
+## V1.7 截圖
 
-<p class="section-intro">V1.5 改進了運動模式狀態、自訂手勢、進階辨識設定、鎖定畫面 Live Card 和手勢練習流程。</p>
+<p class="section-intro">V1.7 圍繞更清楚的使用場景展示：手腕手勢控制音樂、跑步不用按耳機、戴手套也能控制、手機不用拿出來、先練習再自訂，以及不用喊 Siri、不用等待。</p>
 
 <div id="screenshots" class="screenshot-grid">
-  <figure><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="運動模式手勢控制截圖"><figcaption>運動模式手腕控制</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/02-customize-gesture-actions.png" alt="自訂手勢動作截圖"><figcaption>自訂每個手勢的動作</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/03-advanced-gesture-models.png" alt="進階手勢辨識模型截圖"><figcaption>進階手勢辨識模型</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/04-lock-screen-live-card.png" alt="鎖定畫面 Live Card 截圖"><figcaption>鎖定畫面顯示手勢狀態</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/05-gesture-practice-guide.png" alt="手勢練習引導截圖"><figcaption>正式使用前先練習</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Apple Watch 手腕手勢控制音樂截圖"><figcaption>用手腕手勢控制音樂</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/02-no-earbud-taps-while-running.png" alt="跑步時不用按耳機截圖"><figcaption>跑步不用按耳機</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/03-control-music-with-gloves.png" alt="戴手套控制音樂截圖"><figcaption>戴手套也能控制音樂</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/04-phone-stays-away.png" alt="手機不用拿出來控制音樂截圖"><figcaption>手機不用拿出來</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/05-practice-then-customize.png" alt="練習手勢並自訂動作截圖"><figcaption>先練習，再自訂</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/06-no-siri-no-waiting.png" alt="不用喊 Siri 不用等待截圖"><figcaption>不用喊 Siri，不用等待</figcaption></figure>
 </div>
 
 ## Motune 做什麼

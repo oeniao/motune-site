@@ -4,7 +4,7 @@ This repository contains the public product, privacy, support, and localized int
 
 ## Content Structure
 
-- `index.md` - main product introduction page. It now focuses on user scenarios, pain points found from forum research, V1.5 screenshots, key features, gesture guide, privacy, and requirements.
+- `index.md` - main product introduction page. It now focuses on user scenarios, pain points found from forum research, V1.7 screenshots, key features, gesture guide, privacy, and requirements.
 - `privacy.md` - App Store privacy policy page.
 - `support.md` - App Store support page.
 - `en.md` - English localized detail page.
@@ -16,7 +16,7 @@ This repository contains the public product, privacy, support, and localized int
 - `fr.md` - French localized detail page.
 - `de.md` - German localized detail page.
 - `ar.md` - Arabic localized detail page, using RTL layout.
-- `assets/screenshots/v1.5/` - latest V1.5 App Store review screenshots used on the introduction page.
+- `assets/screenshots/v1.7/` - latest V1.7 App Store review screenshots used on the introduction page.
 - `assets/gestures/` - gesture guide GIFs.
 - `assets/images/` - Motune brand assets.
 
@@ -28,7 +28,7 @@ The main page is organized around real user pain points:
 - Gloves make phone, watch, and earbud controls unreliable.
 - The iPhone is often in a pocket, armband, bag, or out of reach.
 - Users want more than one generic gesture for music control.
-- V1.5 adds clearer Workout Mode, custom actions, Live Card status, guided practice, and advanced gesture model settings.
+- V1.7 uses a simplified App Store screenshot set focused on wrist gesture music control, running without earbud taps, glove-friendly control, phone-away playback, gesture practice, and no Siri waiting.
 
 The page should lead with user scenarios first, then product capabilities, then technical/privacy details.
 

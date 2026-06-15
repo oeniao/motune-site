@@ -14,7 +14,7 @@ permalink: /es
     <p class="lede">Motune convierte tu Apple Watch en un control remoto por gestos para la música. Está pensado para correr, montar en bici, ir al trabajo, usar guantes, auriculares open-ear, toques accidentales y momentos en los que tocar la pantalla o usar la voz no es cómodo.</p>
     <div class="hero-actions"><a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="button">Descargar en App Store</a><a href="support" class="button secondary">Soporte</a></div>
   </div>
-  <div class="hero-media"><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Motune modo entrenamiento"></div>
+  <div class="hero-media"><img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Motune modo entrenamiento"></div>
 </section>
 
 <section class="download-card">
@@ -39,16 +39,17 @@ permalink: /es
   <div class="panel story"><p class="story-role">Ciclista u open-ear</p><h3>"No quiero usar Siri con viento ni tocar los auriculares."</h3><p>Motune puede ser una capa de control para Shokz, open-ear, conducción ósea y auriculares diarios.</p></div>
 </div>
 
-## Capturas V1.5
+## Capturas V1.7
 
-<p class="section-intro">V1.5 mejora el modo entrenamiento, acciones personalizadas, ajustes avanzados de reconocimiento, Live Card en pantalla bloqueada y práctica de gestos.</p>
+<p class="section-intro">V1.7 muestra con más claridad los momentos clave: controlar música con gestos de muñeca, correr sin tocar auriculares, usar guantes, dejar el teléfono guardado, practicar gestos y evitar esperar a Siri.</p>
 
 <div id="screenshots" class="screenshot-grid">
-  <figure><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Controles de muñeca en Workout Mode"><figcaption>Control de muñeca en entrenamiento</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/02-customize-gesture-actions.png" alt="Personalizar acciones"><figcaption>Elige qué hace cada gesto</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/03-advanced-gesture-models.png" alt="Modelos avanzados"><figcaption>Modelos avanzados</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/04-lock-screen-live-card.png" alt="Live Card en pantalla bloqueada"><figcaption>Estado en pantalla bloqueada</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/05-gesture-practice-guide.png" alt="Guía de práctica"><figcaption>Practica antes de empezar</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Controlar música con gestos de muñeca"><figcaption>Controla música con gestos</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/02-no-earbud-taps-while-running.png" alt="Sin tocar auriculares al correr"><figcaption>Sin tocar auriculares al correr</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/03-control-music-with-gloves.png" alt="Controlar música con guantes"><figcaption>Control con guantes</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/04-phone-stays-away.png" alt="El teléfono se queda guardado"><figcaption>El teléfono se queda guardado</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/05-practice-then-customize.png" alt="Practicar y personalizar gestos"><figcaption>Practica y personaliza</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/06-no-siri-no-waiting.png" alt="Sin Siri y sin esperar"><figcaption>Sin Siri. Sin esperar.</figcaption></figure>
 </div>
 
 ## Qué hace Motune

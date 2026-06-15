@@ -15,7 +15,7 @@ permalink: /ar
     <p class="lede">يحول Motune ساعة Apple Watch إلى جهاز تحكم بالموسيقى عبر إيماءات المعصم. صمم للجري، وركوب الدراجة، والتنقل، وقفازات الشتاء، والسماعات المفتوحة، ولمسات السماعات الخاطئة، واللحظات التي لا يكون فيها لمس الشاشة أو الأوامر الصوتية مناسبا.</p>
     <div class="hero-actions"><a href="https://apps.apple.com/us/app/motune/id6768014814?uo=4" class="button">تنزيل من App Store</a><a href="support" class="button secondary">الدعم</a></div>
   </div>
-  <div class="hero-media"><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Motune workout mode screenshot"></div>
+  <div class="hero-media"><img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Motune workout mode screenshot"></div>
 </section>
 
 <section class="download-card">
@@ -40,16 +40,17 @@ permalink: /ar
   <div class="panel story"><p class="story-role">راكب دراجة أو مستخدم سماعات مفتوحة</p><h3>"لا أريد استخدام Siri وسط الرياح أو لمس السماعات."</h3><p>يمكن أن يكون Motune طبقة تحكم من المعصم مع Shokz والسماعات المفتوحة وسماعات التوصيل العظمي.</p></div>
 </div>
 
-## لقطات V1.5
+## لقطات V1.7
 
-<p class="section-intro">يحسن V1.5 وضع التمرين، وتخصيص أفعال الإيماءات، وإعدادات التعرف المتقدمة، وLive Card على شاشة القفل، والتدريب على الإيماءات.</p>
+<p class="section-intro">يعرض V1.7 أهم الحالات بوضوح أكبر: التحكم بالموسيقى بإيماءات المعصم، الجري من دون لمس السماعات، التحكم مع القفازات، إبقاء الهاتف بعيدا، التدريب على الإيماءات، وعدم انتظار Siri.</p>
 
 <div id="screenshots" class="screenshot-grid">
-  <figure><img src="assets/screenshots/v1.5/01-workout-mode-wrist-controls.png" alt="Workout Mode wrist controls"><figcaption>تحكم المعصم في وضع التمرين</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/02-customize-gesture-actions.png" alt="Customize gesture actions"><figcaption>اختر وظيفة كل إيماءة</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/03-advanced-gesture-models.png" alt="Advanced gesture models"><figcaption>نماذج تعرف متقدمة</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/04-lock-screen-live-card.png" alt="Lock Screen Live Card"><figcaption>حالة الإيماءة على شاشة القفل</figcaption></figure>
-  <figure><img src="assets/screenshots/v1.5/05-gesture-practice-guide.png" alt="Gesture practice guide"><figcaption>تدرب قبل الاستخدام</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png" alt="Apple Watch wrist gesture music control"><figcaption>تحكم بالموسيقى بإيماءات المعصم</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/02-no-earbud-taps-while-running.png" alt="No earbud taps while running"><figcaption>لا تلمس السماعات أثناء الجري</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/03-control-music-with-gloves.png" alt="Control music with gloves"><figcaption>تحكم مع القفازات</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/04-phone-stays-away.png" alt="Phone stays away"><figcaption>الهاتف يبقى بعيدا</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/05-practice-then-customize.png" alt="Practice then customize gestures"><figcaption>تدرب ثم خصص</figcaption></figure>
+  <figure><img src="assets/screenshots/v1.7/06-no-siri-no-waiting.png" alt="No Siri no waiting"><figcaption>بدون Siri. بدون انتظار.</figcaption></figure>
 </div>
 
 ## ماذا يفعل Motune

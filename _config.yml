@@ -4,7 +4,7 @@ description: Control music without touching earbuds or talking to Siri. Motune t
 url: "https://oeniao.github.io"
 baseurl: "/motune-site"
 logo: /assets/images/icon-192.png
-image: /assets/screenshots/v1.5/01-workout-mode-wrist-controls.png
+image: /assets/screenshots/v1.7/01-control-music-with-wrist-gestures.png
 lang: en
 theme: jekyll-theme-minimal
 plugins:
